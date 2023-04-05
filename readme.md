@@ -1,9 +1,6 @@
 # Overview
  This repo contains projects and de-identified sample data specific to UCSD PACC clinical architects team. The primary language for these programs is python 3.10.10, which is required to run any of these programs.
 
-# Getting Started
- TODO
-
 # Active Projects
 
  ## PyService: Expedite ServiceNow ticket processing 
